@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+  Copyright (c) 2015, 2019, Gluon and/or its affiliates.
+  All rights reserved. Use is subject to license terms.
+
+  This file is available and licensed under the following license:
+
+  Redistribution and use in source and binary forms, with or without
+  modification, are permitted provided that the following conditions
+  are met:
+
+  - Redistributions of source code must retain the above copyright
+    notice, this list of conditions and the following disclaimer.
+  - Redistributions in binary form must reproduce the above copyright
+    notice, this list of conditions and the following disclaimer in
+    the documentation and/or other materials provided with the distribution.
+  - Neither the name of Oracle Corporation nor the names of its
+    contributors may be used to endorse or promote products derived
+    from this software without specific prior written permission.
+
+  THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
+  "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
+  LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
+  A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT
+  OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+  SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
+  LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
+  DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
+  THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+  (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+  OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+-->
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.Menu?>
+<?import javafx.scene.control.MenuBar?>
+<?import javafx.scene.control.MenuItem?>
+<?import javafx.scene.control.SeparatorMenuItem?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.VBox?>
+
+<VBox prefHeight="474.0" prefWidth="812.0" xmlns="http://javafx.com/javafx/20.0.1" xmlns:fx="http://javafx.com/fxml/1">
+  <children>
+    
+    <AnchorPane maxHeight="-1.0" maxWidth="-1.0" prefHeight="-1.0" prefWidth="-1.0" VBox.vgrow="ALWAYS">
+         <children>
+            <Button fx:id="Pbttn00" disable="true" layoutX="36.0" layoutY="59.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Pbttn01" disable="true" layoutX="66.0" layoutY="59.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Pbttn02" disable="true" layoutX="96.0" layoutY="59.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Pbttn03" disable="true" layoutX="126.0" layoutY="59.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Pbttn04" disable="true" layoutX="156.0" layoutY="59.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Pbttn05" disable="true" layoutX="186.0" layoutY="59.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Pbttn06" disable="true" layoutX="216.0" layoutY="59.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Pbttn07" disable="true" layoutX="246.0" layoutY="59.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Pbttn08" disable="true" layoutX="276.0" layoutY="59.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Pbttn09" disable="true" layoutX="306.0" layoutY="59.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Pbttn10" disable="true" layoutX="36.0" layoutY="89.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Pbttn11" disable="true" layoutX="66.0" layoutY="89.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Pbttn12" disable="true" layoutX="96.0" layoutY="89.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Pbttn13" disable="true" layoutX="126.0" layoutY="89.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Pbttn14" disable="true" layoutX="156.0" layoutY="89.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Pbttn15" disable="true" layoutX="186.0" layoutY="89.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Pbttn16" disable="true" layoutX="216.0" layoutY="89.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Pbttn17" disable="true" layoutX="246.0" layoutY="89.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Pbttn18" disable="true" layoutX="276.0" layoutY="89.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Pbttn19" disable="true" layoutX="306.0" layoutY="89.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Pbttn20" disable="true" layoutX="36.0" layoutY="119.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Pbttn21" disable="true" layoutX="66.0" layoutY="119.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Pbttn22" disable="true" layoutX="96.0" layoutY="119.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Pbttn23" disable="true" layoutX="126.0" layoutY="119.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Pbttn24" disable="true" layoutX="156.0" layoutY="119.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Pbttn25" disable="true" layoutX="186.0" layoutY="119.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Pbttn26" disable="true" layoutX="216.0" layoutY="119.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Pbttn27" disable="true" layoutX="246.0" layoutY="119.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Pbttn28" disable="true" layoutX="276.0" layoutY="119.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Pbttn29" disable="true" layoutX="306.0" layoutY="119.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Pbttn30" disable="true" layoutX="36.0" layoutY="149.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Pbttn31" disable="true" layoutX="66.0" layoutY="149.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Pbttn32" disable="true" layoutX="96.0" layoutY="149.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Pbttn33" disable="true" layoutX="126.0" layoutY="149.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Pbttn34" disable="true" layoutX="156.0" layoutY="149.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Pbttn35" disable="true" layoutX="186.0" layoutY="149.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Pbttn36" disable="true" layoutX="216.0" layoutY="149.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Pbttn37" disable="true" layoutX="246.0" layoutY="149.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Pbttn38" disable="true" layoutX="276.0" layoutY="149.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Pbttn39" disable="true" layoutX="306.0" layoutY="149.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Pbttn40" disable="true" layoutX="36.0" layoutY="179.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Pbttn41" disable="true" layoutX="66.0" layoutY="179.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Pbttn42" disable="true" layoutX="96.0" layoutY="179.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Pbttn43" disable="true" layoutX="126.0" layoutY="179.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Pbttn44" disable="true" layoutX="156.0" layoutY="179.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Pbttn45" disable="true" layoutX="186.0" layoutY="179.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Pbttn46" disable="true" layoutX="216.0" layoutY="179.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Pbttn47" disable="true" layoutX="246.0" layoutY="179.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Pbttn48" disable="true" layoutX="276.0" layoutY="179.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Pbttn49" disable="true" layoutX="306.0" layoutY="179.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Pbttn50" disable="true" layoutX="36.0" layoutY="209.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Pbttn51" disable="true" layoutX="66.0" layoutY="209.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Pbttn52" disable="true" layoutX="96.0" layoutY="209.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Pbttn53" disable="true" layoutX="126.0" layoutY="209.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Pbttn54" disable="true" layoutX="156.0" layoutY="209.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Pbttn55" disable="true" layoutX="186.0" layoutY="209.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Pbttn56" disable="true" layoutX="216.0" layoutY="209.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Pbttn57" disable="true" layoutX="246.0" layoutY="209.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Pbttn58" disable="true" layoutX="276.0" layoutY="209.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Pbttn59" disable="true" layoutX="306.0" layoutY="209.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Pbttn60" disable="true" layoutX="36.0" layoutY="239.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Pbttn61" disable="true" layoutX="66.0" layoutY="239.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Pbttn62" disable="true" layoutX="96.0" layoutY="239.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Pbttn63" disable="true" layoutX="126.0" layoutY="239.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Pbttn64" disable="true" layoutX="156.0" layoutY="239.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Pbttn65" disable="true" layoutX="186.0" layoutY="239.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Pbttn66" disable="true" layoutX="216.0" layoutY="239.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Pbttn67" disable="true" layoutX="246.0" layoutY="239.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Pbttn68" disable="true" layoutX="276.0" layoutY="239.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Pbttn69" disable="true" layoutX="306.0" layoutY="239.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Pbttn70" disable="true" layoutX="36.0" layoutY="269.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Pbttn71" disable="true" layoutX="66.0" layoutY="269.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Pbttn72" disable="true" layoutX="96.0" layoutY="269.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Pbttn73" disable="true" layoutX="126.0" layoutY="269.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Pbttn74" disable="true" layoutX="156.0" layoutY="269.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Pbttn75" disable="true" layoutX="186.0" layoutY="269.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Pbttn76" disable="true" layoutX="216.0" layoutY="269.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Pbttn77" disable="true" layoutX="246.0" layoutY="269.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Pbttn78" disable="true" layoutX="276.0" layoutY="269.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Pbttn79" disable="true" layoutX="306.0" layoutY="269.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Pbttn80" disable="true" layoutX="36.0" layoutY="299.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Pbttn81" disable="true" layoutX="66.0" layoutY="299.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Pbttn82" disable="true" layoutX="96.0" layoutY="299.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Pbttn83" disable="true" layoutX="126.0" layoutY="299.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Pbttn84" disable="true" layoutX="156.0" layoutY="299.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Pbttn85" disable="true" layoutX="186.0" layoutY="299.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Pbttn86" disable="true" layoutX="216.0" layoutY="299.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Pbttn87" disable="true" layoutX="246.0" layoutY="299.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Pbttn88" disable="true" layoutX="276.0" layoutY="299.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Pbttn89" disable="true" layoutX="306.0" layoutY="299.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Pbttn90" disable="true" layoutX="36.0" layoutY="329.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Pbttn91" disable="true" layoutX="66.0" layoutY="329.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Pbttn92" disable="true" layoutX="96.0" layoutY="329.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Pbttn93" disable="true" layoutX="126.0" layoutY="329.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Pbttn94" disable="true" layoutX="156.0" layoutY="329.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Pbttn95" disable="true" layoutX="186.0" layoutY="329.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Pbttn96" disable="true" layoutX="216.0" layoutY="329.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Pbttn97" disable="true" layoutX="246.0" layoutY="329.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Pbttn98" disable="true" layoutX="276.0" layoutY="329.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Pbttn99" disable="true" layoutX="306.0" layoutY="329.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Label alignment="CENTER" disable="true" layoutX="123.0" layoutY="24.0" prefHeight="26.0" prefWidth="126.0" text="Your board" />
+            <Label alignment="CENTER" disable="true" layoutX="568.0" layoutY="24.0" prefHeight="26.0" prefWidth="126.0" text="Enemy board" />
+            <Button fx:id="QuitBttn" layoutX="380.0" layoutY="378.0" mnemonicParsing="false" text="Quit" />
+            <Button fx:id="Hbttn00" disable="true" layoutX="481.0" layoutY="59.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Hbttn01" disable="true" layoutX="511.0" layoutY="59.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Hbttn02" disable="true" layoutX="541.0" layoutY="59.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Hbttn03" disable="true" layoutX="571.0" layoutY="59.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Hbttn04" disable="true" layoutX="601.0" layoutY="59.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Hbttn05" disable="true" layoutX="631.0" layoutY="59.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Hbttn06" disable="true" layoutX="661.0" layoutY="59.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Hbttn07" disable="true" layoutX="691.0" layoutY="59.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Hbttn08" disable="true" layoutX="721.0" layoutY="59.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Hbttn09" disable="true" layoutX="751.0" layoutY="59.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Hbttn10" disable="true" layoutX="481.0" layoutY="89.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Hbttn11" disable="true" layoutX="511.0" layoutY="89.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Hbttn12" disable="true" layoutX="541.0" layoutY="89.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Hbttn13" disable="true" layoutX="571.0" layoutY="89.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Hbttn14" disable="true" layoutX="601.0" layoutY="89.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Hbttn15" disable="true" layoutX="631.0" layoutY="89.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Hbttn16" disable="true" layoutX="661.0" layoutY="89.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Hbttn17" disable="true" layoutX="691.0" layoutY="89.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Hbttn18" disable="true" layoutX="721.0" layoutY="89.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Hbttn19" disable="true" layoutX="751.0" layoutY="89.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Hbttn20" disable="true" layoutX="481.0" layoutY="119.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Hbttn21" disable="true" layoutX="511.0" layoutY="119.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Hbttn22" disable="true" layoutX="541.0" layoutY="119.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Hbttn23" disable="true" layoutX="571.0" layoutY="119.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Hbttn24" disable="true" layoutX="601.0" layoutY="119.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Hbttn25" disable="true" layoutX="631.0" layoutY="119.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Hbttn26" disable="true" layoutX="661.0" layoutY="119.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Hbttn27" disable="true" layoutX="691.0" layoutY="119.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Hbttn28" disable="true" layoutX="721.0" layoutY="119.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Hbttn29" disable="true" layoutX="751.0" layoutY="119.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Hbttn30" disable="true" layoutX="481.0" layoutY="149.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Hbttn31" disable="true" layoutX="511.0" layoutY="149.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Hbttn32" disable="true" layoutX="541.0" layoutY="149.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Hbttn33" disable="true" layoutX="571.0" layoutY="149.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Hbttn34" disable="true" layoutX="601.0" layoutY="149.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Hbttn35" disable="true" layoutX="631.0" layoutY="149.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Hbttn36" disable="true" layoutX="661.0" layoutY="149.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Hbttn37" disable="true" layoutX="691.0" layoutY="149.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Hbttn38" disable="true" layoutX="721.0" layoutY="149.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Hbttn39" disable="true" layoutX="751.0" layoutY="149.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Hbttn40" disable="true" layoutX="481.0" layoutY="179.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Hbttn41" disable="true" layoutX="511.0" layoutY="179.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Hbttn42" disable="true" layoutX="541.0" layoutY="179.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Hbttn43" disable="true" layoutX="571.0" layoutY="179.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Hbttn44" disable="true" layoutX="601.0" layoutY="179.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Hbttn45" disable="true" layoutX="631.0" layoutY="179.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Hbttn46" disable="true" layoutX="661.0" layoutY="179.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Hbttn47" disable="true" layoutX="691.0" layoutY="179.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Hbttn48" disable="true" layoutX="721.0" layoutY="179.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Hbttn49" disable="true" layoutX="751.0" layoutY="179.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Hbttn50" disable="true" layoutX="481.0" layoutY="209.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Hbttn51" disable="true" layoutX="511.0" layoutY="209.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Hbttn52" disable="true" layoutX="541.0" layoutY="209.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Hbttn53" disable="true" layoutX="571.0" layoutY="209.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Hbttn54" disable="true" layoutX="601.0" layoutY="209.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Hbttn55" disable="true" layoutX="631.0" layoutY="209.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Hbttn56" disable="true" layoutX="661.0" layoutY="209.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Hbttn57" disable="true" layoutX="691.0" layoutY="209.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Hbttn58" disable="true" layoutX="721.0" layoutY="209.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Hbttn59" disable="true" layoutX="751.0" layoutY="209.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Hbttn60" disable="true" layoutX="481.0" layoutY="239.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Hbttn61" disable="true" layoutX="511.0" layoutY="239.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Hbttn62" disable="true" layoutX="541.0" layoutY="239.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Hbttn63" disable="true" layoutX="571.0" layoutY="239.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Hbttn64" disable="true" layoutX="601.0" layoutY="239.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Hbttn65" disable="true" layoutX="631.0" layoutY="239.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Hbttn66" disable="true" layoutX="661.0" layoutY="239.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Hbttn67" disable="true" layoutX="691.0" layoutY="239.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Hbttn68" disable="true" layoutX="721.0" layoutY="239.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Hbttn69" disable="true" layoutX="751.0" layoutY="239.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Hbttn70" disable="true" layoutX="481.0" layoutY="269.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Hbttn71" disable="true" layoutX="511.0" layoutY="269.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Hbttn72" disable="true" layoutX="541.0" layoutY="269.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Hbttn73" disable="true" layoutX="571.0" layoutY="269.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Hbttn74" disable="true" layoutX="601.0" layoutY="269.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Hbttn75" disable="true" layoutX="631.0" layoutY="269.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Hbttn76" disable="true" layoutX="661.0" layoutY="269.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Hbttn77" disable="true" layoutX="691.0" layoutY="269.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Hbttn78" disable="true" layoutX="721.0" layoutY="269.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Hbttn79" disable="true" layoutX="751.0" layoutY="269.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Hbttn80" disable="true" layoutX="481.0" layoutY="299.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Hbttn81" disable="true" layoutX="511.0" layoutY="299.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Hbttn82" disable="true" layoutX="541.0" layoutY="299.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Hbttn83" disable="true" layoutX="571.0" layoutY="299.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Hbttn84" disable="true" layoutX="601.0" layoutY="299.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Hbttn85" disable="true" layoutX="631.0" layoutY="299.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Hbttn86" disable="true" layoutX="661.0" layoutY="299.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Hbttn87" disable="true" layoutX="691.0" layoutY="299.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Hbttn88" disable="true" layoutX="721.0" layoutY="299.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Hbttn89" disable="true" layoutX="751.0" layoutY="299.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Hbttn90" disable="true" layoutX="481.0" layoutY="329.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Hbttn91" disable="true" layoutX="511.0" layoutY="329.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Hbttn92" disable="true" layoutX="541.0" layoutY="329.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Hbttn93" disable="true" layoutX="571.0" layoutY="329.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Hbttn94" disable="true" layoutX="601.0" layoutY="329.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Hbttn95" disable="true" layoutX="631.0" layoutY="329.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Hbttn96" disable="true" layoutX="661.0" layoutY="329.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Hbttn97" disable="true" layoutX="691.0" layoutY="329.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Hbttn98" disable="true" layoutX="721.0" layoutY="329.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+            <Button fx:id="Hbttn99" disable="true" layoutX="751.0" layoutY="329.0" maxHeight="-Infinity" maxWidth="-Infinity" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0" />
+         </children>
+    </AnchorPane>
+  </children>
+</VBox>
